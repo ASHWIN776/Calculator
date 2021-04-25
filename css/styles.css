@@ -3,6 +3,7 @@ body, html{
     margin: 0;
     box-sizing: border-box;
     height: 100vh;
+    background-color: #E0E1DB;
 }
 
 *, *::after, *::before{
@@ -24,6 +25,7 @@ main{
     background-color: black;
     color: white;
     width: 400px;
+    box-shadow: 10px 10px 6px -6px #777;
 }
 
 .calc-screen{
